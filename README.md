@@ -48,12 +48,6 @@ MusicPlayer/
     └── music files and images
 ```
 
-*Note: The file structure may vary depending on the actual files in your repository.*
-
-## 🌐 Live Demo
-
-[🎵 Play Music Player](https://syedaunaizaabid.github.io/MusicPlayer/)
-
 ## 💡 Learning Outcome
 
 Building this project helped me strengthen my understanding of frontend web development, JavaScript event handling, DOM manipulation, and audio playback functionality while creating an interactive web application.
